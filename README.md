@@ -45,7 +45,7 @@
 ## 🧠 Recent Learning / Activities
 - ⟪Aug 2025⟫ • Completed *“Robot Framework Basic Testing”
 - ⟪Jul 2025⟫ • Wrote blog on *“Effective QA in Agile Teams”
-- ⟪Jul 2025⟫ • Supported the IT Camp team by holding signs to lead students and informing teammates of any changes during the event.
+- ⟪Jul 2025⟫ • Assisted IT Camp by guiding students and updating teammates on event changes.
 
 ---
 
