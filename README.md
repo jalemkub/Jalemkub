@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="image/newProfile.png" alt="header image" width="300" />
+  <img src="Profile.png" alt="header image" width="300" />
 </p>
 
 
